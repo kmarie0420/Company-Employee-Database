@@ -29,7 +29,18 @@ THEN I am prompted to select an employee to update and their new role and this i
 
 ## Decription
 
+A node.js application that takes in user input to view and manage employee's, their roles, and departments within a company. Making it convenient and overall appealing for the user. Being able to obtain/adjust company information in a quick and easy manner!
+
 ## Installation
+
+First git clone this repo: `git clone git@github.com:kmarie0420/Company-Employee-Database.git`
+Then run npm i at the root of this project in your local directory.
+
+  * Uses the [mysql2 package](https://www.npmjs.com/package/mysql2).
+  
+  * Uses the [Inquirer package](https://www.npmjs.com/package/inquirer/v/8.2.4).
+
+    * Uses the [Console.Table package](https://www.npmjs.com/package/console.table).
 
 ## Usage Information
 
@@ -37,7 +48,7 @@ THEN I am prompted to select an employee to update and their new role and this i
 
 The following video shows an example of the application being used from the command line:
 
-[![A video thumbnail shows the command-line employee management application with a play button overlaying the view.](./Assets/12-sql-homework-video-thumbnail.png)](https://2u-20.wistia.com/medias/2lnle7xnpk)
+[![A video thumbnail shows the command-line employee management application with a play button overlaying the view.](![Alt text](images/12-sql-homework-video-thumbnail.png))]
 
 ## Contributions
 
@@ -58,4 +69,7 @@ https://github.com/kmarie0420/Company-Employee-Database
 If you have any questions or concerns, please email `kpowell0420@gmail.com` or https://github.com/kmarie0420 . 
 
 ## Credits
-
+https://www.npmjs.com/package/console.table?activeTab=code 
+https://www.npmjs.com/package/console.table 
+https://www.npmjs.com/package/inquirer/v/8.2.4
+https://www.npmjs.com/package/mysql2 
