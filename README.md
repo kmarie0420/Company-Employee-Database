@@ -39,8 +39,7 @@ Then run npm i at the root of this project in your local directory.
   * Uses the [mysql2 package](https://www.npmjs.com/package/mysql2).
   
   * Uses the [Inquirer package](https://www.npmjs.com/package/inquirer/v/8.2.4).
-
-    * Uses the [Console.Table package](https://www.npmjs.com/package/console.table).
+  * Uses the [Console.Table package](https://www.npmjs.com/package/console.table).
 
 ## Usage Information
 
