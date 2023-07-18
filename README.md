@@ -43,12 +43,14 @@ Then run npm i at the root of this project in your local directory.
 
 ## Usage Information
 
+To run this application, use the command line to navigate to the directory of the appication, install all dependencies (npm i), then type the command `node index.js.` You will than be shown a prompts, asking a series of questions. Enter as you see fit and press `Enter.` A table with show up with the inputed information.
+
 ## Mock-Up
 
 The following video shows an example of the application being used from the command line:
 
 [![A video thumbnail shows the command-line employee management application with a play button overlaying the view.]
-(![Alt text](images/12-sql-homework-video-thumbnail.png))]
+(![Alt text](![Alt text](images/ExpectedOutcome.png)))]
 
 ## Contributions
 
@@ -63,6 +65,8 @@ Kalynn Powell
 https://github.com/kmarie0420/Company-Employee-Database
 
 ## Walk-Through-Video
+
+https://drive.google.com/file/d/1HHLFG8hLAi1TGtXSyFe2M9uHHegyyNnj/view
 
 ## Questions
 
